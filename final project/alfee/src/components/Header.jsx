@@ -13,6 +13,9 @@ const Header = () => {
                     <ul>
                         <li><Link to="/">Home</Link></li>
                         <li><Link to="/login">Login</Link></li>
+                        <li><Link to="/Chatbot">ChatBot</Link></li>
+
+
                     </ul>
                 </nav>
             </div>
